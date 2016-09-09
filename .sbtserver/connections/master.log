@@ -1,0 +1,7 @@
+New log file opened at Thu Sep 08 15:43:29 CEST 2016 by 31068@agonzalez-Precision-7510
+Taking next connection to: 35682
+New client attempting to connect on port: 44210-35682
+  Address = /127.0.1.1:35682
+This client on port 44210 has uuid 61237791-e4ee-4028-9052-701c6a4bb961 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-61237791-e4ee-4028-9052-701c6a4bb961
+Taking next connection to: 35682

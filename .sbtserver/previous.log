@@ -1,0 +1,123 @@
+New log file opened at Thu Sep 08 15:43:23 CEST 2016 by 30774@agonzalez-Precision-7510
+Invalidating /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/routes.java...
+Invalidating (transitively) by inheritance from /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/routes.java...
+Initial set of included nodes: Set(/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/routes.java)
+Invalidated by transitive inheritance dependency: Set(/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/routes.java)
+The /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/routes.java source file has the following regular definitions changed:
+	notify, Assets, wait, routes, equals, CountController, routes$javascript, notifyAll, <init>, HomeController, AsyncController, toString, getClass, hashCode.
+All member reference dependencies will be considered within this context.
+Name hashing optimization doesn't apply to non-Scala dependency: /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/routes.java
+The following modified names cause invalidation of /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/twirl/main/views/html/main.template.scala: Set(Assets, routes, <init>)
+Invalidating /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/twirl/main/views/html/main.template.scala...
+Invalidating (transitively) by inheritance from /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/twirl/main/views/html/main.template.scala...
+Initial set of included nodes: Set(/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Invalidated by transitive inheritance dependency: Set(/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/twirl/main/views/html/main.template.scala)
+The /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/twirl/main/views/html/main.template.scala source file has the following regular definitions changed:
+	notify, format, wait, $asInstanceOf, productArity, equals, asInstanceOf, f, synchronized, _display_, $isInstanceOf, ref, canEqual, main, productPrefix, notifyAll, readResolve, isInstanceOf, <init>, apply, ==, clone, main_Scope0, copy, toString, !=, getClass, copy$default$1, render, ne, eq, productIterator, ##, finalize, productElement, hashCode.
+All member reference dependencies will be considered within this context.
+The following modified names cause invalidation of /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/twirl/main/views/html/index.template.scala: Set(format, _display_, main, <init>, apply)
+Invalidating /home/agonzalez/git-projects/play-projects/sample-rs/app/services/Counter.scala...
+Invalidating (transitively) by inheritance from /home/agonzalez/git-projects/play-projects/sample-rs/app/services/Counter.scala...
+Initial set of included nodes: Set(/home/agonzalez/git-projects/play-projects/sample-rs/app/services/Counter.scala)
+Invalidated by transitive inheritance dependency: Set(/home/agonzalez/git-projects/play-projects/sample-rs/app/services/Counter.scala)
+The /home/agonzalez/git-projects/play-projects/sample-rs/app/services/Counter.scala source file has the following regular definitions changed:
+	notify, nextCount, wait, $asInstanceOf, equals, AtomicCounter, asInstanceOf, synchronized, $isInstanceOf, atomicCounter, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, Counter, ne, eq, ##, finalize, hashCode.
+All member reference dependencies will be considered within this context.
+The following modified names cause invalidation of /home/agonzalez/git-projects/play-projects/sample-rs/app/Module.scala: Set(AtomicCounter, <init>, Counter)
+The following modified names cause invalidation of /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/CountController.scala: Set(nextCount, <init>, toString, Counter)
+Invalidating /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/router/RoutesPrefix.scala...
+Invalidating (transitively) by inheritance from /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/router/RoutesPrefix.scala...
+Initial set of included nodes: Set(/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/router/RoutesPrefix.scala)
+Invalidated by transitive inheritance dependency: Set(/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/router/RoutesPrefix.scala)
+The /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/router/RoutesPrefix.scala source file has the following regular definitions changed:
+	notify, byNamePrefix, wait, $asInstanceOf, equals, prefix, asInstanceOf, RoutesPrefix, synchronized, $isInstanceOf, _prefix, notifyAll, isInstanceOf, ==, clone, toString, !=, getClass, setPrefix, ne, eq, ##, finalize, hashCode.
+All member reference dependencies will be considered within this context.
+Name hashing optimization doesn't apply to non-Scala dependency: /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/routes.java
+The following modified names cause invalidation of /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/router/Routes.scala: Set(prefix, asInstanceOf, RoutesPrefix, isInstanceOf, getClass, setPrefix)
+Invalidating /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/HomeController.scala...
+Invalidating (transitively) by inheritance from /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/HomeController.scala...
+Initial set of included nodes: Set(/home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/HomeController.scala)
+Invalidated by transitive inheritance dependency: Set(/home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/HomeController.scala)
+The /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/HomeController.scala source file has the following implicit definitions changed:
+	request2session, request2flash, request2lang.
+All member reference dependencies will be considered within this context.
+The following member ref dependencies of /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/HomeController.scala are invalidated:
+	/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/router/Routes.scala
+Invalidating /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/CountController.scala...
+Invalidating (transitively) by inheritance from /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/CountController.scala...
+Initial set of included nodes: Set(/home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/CountController.scala)
+Invalidated by transitive inheritance dependency: Set(/home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/CountController.scala)
+The /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/CountController.scala source file has the following implicit definitions changed:
+	request2session, request2flash, request2lang.
+All member reference dependencies will be considered within this context.
+The following member ref dependencies of /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/CountController.scala are invalidated:
+	/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/router/Routes.scala
+Invalidating /home/agonzalez/git-projects/play-projects/sample-rs/app/services/ApplicationTimer.scala...
+Invalidating (transitively) by inheritance from /home/agonzalez/git-projects/play-projects/sample-rs/app/services/ApplicationTimer.scala...
+Initial set of included nodes: Set(/home/agonzalez/git-projects/play-projects/sample-rs/app/services/ApplicationTimer.scala)
+Invalidated by transitive inheritance dependency: Set(/home/agonzalez/git-projects/play-projects/sample-rs/app/services/ApplicationTimer.scala)
+The /home/agonzalez/git-projects/play-projects/sample-rs/app/services/ApplicationTimer.scala source file has the following regular definitions changed:
+	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, ApplicationTimer, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, start, ne, eq, ##, finalize, hashCode.
+All member reference dependencies will be considered within this context.
+The following modified names cause invalidation of /home/agonzalez/git-projects/play-projects/sample-rs/app/Module.scala: Set(ApplicationTimer, <init>)
+Invalidating /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/AsyncController.scala...
+Invalidating (transitively) by inheritance from /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/AsyncController.scala...
+Initial set of included nodes: Set(/home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/AsyncController.scala)
+Invalidated by transitive inheritance dependency: Set(/home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/AsyncController.scala)
+The /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/AsyncController.scala source file has the following implicit definitions changed:
+	request2session, request2flash, request2lang.
+All member reference dependencies will be considered within this context.
+The following member ref dependencies of /home/agonzalez/git-projects/play-projects/sample-rs/app/controllers/AsyncController.scala are invalidated:
+	/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/router/Routes.scala
+Invalidating /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala...
+Invalidating (transitively) by inheritance from /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala...
+Initial set of included nodes: Set(/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala)
+Invalidated by transitive inheritance dependency: Set(/home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala)
+The /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala source file has the following regular definitions changed:
+	notify, count, _defaultPrefix, wait, $asInstanceOf, equals, asInstanceOf, synchronized, ReverseHomeController, $isInstanceOf, ReverseCountController, ReverseAssets, ReverseAsyncController, notifyAll, isInstanceOf, <init>, ==, clone, message, toString, !=, getClass, ne, versioned, eq, ##, finalize, index, hashCode.
+All member reference dependencies will be considered within this context.
+Name hashing optimization doesn't apply to non-Scala dependency: /home/agonzalez/git-projects/play-projects/sample-rs/target/scala-2.11/routes/main/controllers/routes.java
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 38 s, completed Sep 8, 2016 3:43:23 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/home/agonzalez/git-projects/play-projects/sample-rs/}root/compile:mainClass
+Evaluating tasks: compile:mainClass
+Running task... Cancel: sbt.server.ServerTaskCancellation@24e58c36, check cycles: false
+Total time: 0 s, completed Sep 8, 2016 3:43:23 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/home/agonzalez/git-projects/play-projects/sample-rs/}root/compile:discoveredMainClasses
+Evaluating tasks: compile:discoveredMainClasses
+Running task... Cancel: sbt.server.ServerTaskCancellation@5117902e, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Total time: 0 s, completed Sep 8, 2016 3:43:24 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+Done executing sbt server engine, result Right(Exit(0))
+Closing listening server socket
+Waiting for socket thread
+Waiting for request processor thread
+Waiting for command engine result
+Returning control to sbt launcher with result Exit(0)
+Closing the 30774@agonzalez-Precision-7510 logs at Thu Sep 08 15:43:24 CEST 2016, goodbye.
